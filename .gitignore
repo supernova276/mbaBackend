@@ -1,1 +1,2 @@
-./Ecommerce/.env
+/Ecommerce/.env
+/Ecommerce/node_modules
